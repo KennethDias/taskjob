@@ -10,13 +10,20 @@
     "nextUpdateDate": "2026-08-21",
     "owner": "Kenneth",
     "followers": [],
-    "discussionItems": [],
+    "discussionItems": [
+      {
+        "id": "mszvx4mz-74vmnxa",
+        "content": "政策需要改?",
+        "status": "open",
+        "createdAt": "2026-08-19T09:24:05.435Z"
+      }
+    ],
     "subTasks": [],
     "progressUpdates": [],
     "tags": [],
     "progress": 0,
     "createdAt": "2026-08-19T09:23:41.616Z",
-    "updatedAt": "2026-08-19T09:23:41.616Z"
+    "updatedAt": "2026-08-19T09:24:05.435Z"
   },
   {
     "id": "mszvt9zw-tt89a5k",
