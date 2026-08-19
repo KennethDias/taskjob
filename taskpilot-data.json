@@ -1,5 +1,24 @@
 [
   {
+    "id": "mszvt9zw-tt89a5k",
+    "relatedTaskIds": [],
+    "title": "補全IT軟件資產在Moss",
+    "description": "Moss有模板下載, 大多數軟件屬Alex管理",
+    "status": "todo",
+    "goalDate": "2026-08-21",
+    "updateFrequency": "none",
+    "nextUpdateDate": "2026-08-21",
+    "owner": "Kenneth",
+    "followers": [],
+    "discussionItems": [],
+    "subTasks": [],
+    "progressUpdates": [],
+    "tags": [],
+    "progress": 0,
+    "createdAt": "2026-08-19T09:21:05.756Z",
+    "updatedAt": "2026-08-19T09:21:05.756Z"
+  },
+  {
     "id": "mszvq1i4-irx6aaf",
     "relatedTaskIds": [],
     "title": "Q2 漏洞掃描報告審閱",
