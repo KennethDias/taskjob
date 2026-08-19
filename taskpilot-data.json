@@ -16,6 +16,12 @@
         "content": "政策需要改?",
         "status": "open",
         "createdAt": "2026-08-19T09:24:05.435Z"
+      },
+      {
+        "id": "mszvxnb5-7d43qu3",
+        "content": "是全部系統/中級+一般級/核心",
+        "status": "open",
+        "createdAt": "2026-08-19T09:24:29.633Z"
       }
     ],
     "subTasks": [],
@@ -23,7 +29,7 @@
     "tags": [],
     "progress": 0,
     "createdAt": "2026-08-19T09:23:41.616Z",
-    "updatedAt": "2026-08-19T09:24:05.435Z"
+    "updatedAt": "2026-08-19T09:24:29.633Z"
   },
   {
     "id": "mszvt9zw-tt89a5k",
