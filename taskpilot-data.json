@@ -1,5 +1,24 @@
 [
   {
+    "id": "mszvq1i4-irx6aaf",
+    "relatedTaskIds": [],
+    "title": "Q2 漏洞掃描報告審閱",
+    "description": "",
+    "status": "todo",
+    "goalDate": "2026-08-21",
+    "updateFrequency": "none",
+    "nextUpdateDate": "2026-08-21",
+    "owner": "Henry",
+    "followers": [],
+    "discussionItems": [],
+    "subTasks": [],
+    "progressUpdates": [],
+    "tags": [],
+    "progress": 0,
+    "createdAt": "2026-08-19T09:18:34.780Z",
+    "updatedAt": "2026-08-19T09:18:34.780Z"
+  },
+  {
     "id": "mszvnqts-5o8qnhf",
     "relatedTaskIds": [],
     "title": "堡壘機審記",
