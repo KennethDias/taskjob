@@ -1,5 +1,26 @@
 [
   {
+    "id": "mszvnqts-5o8qnhf",
+    "relatedTaskIds": [],
+    "title": "堡壘機審記",
+    "description": "堡壘機關於審記方面的數据處理相關指引需要討論加到政策那里合適",
+    "status": "todo",
+    "goalDate": "2026-08-21",
+    "updateFrequency": "weekly",
+    "nextUpdateDate": "2026-08-28",
+    "owner": "Kenneth",
+    "followers": [],
+    "discussionItems": [],
+    "subTasks": [],
+    "progressUpdates": [],
+    "tags": [
+      "政策相關"
+    ],
+    "progress": 0,
+    "createdAt": "2026-08-19T09:16:47.632Z",
+    "updatedAt": "2026-08-19T09:16:47.632Z"
+  },
+  {
     "id": "mszvmfv4-yytjvx8",
     "relatedTaskIds": [],
     "title": "填寫災難恢復計劃方案",
