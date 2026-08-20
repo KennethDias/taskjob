@@ -64,21 +64,32 @@
     ],
     "title": "追踪Minor NC整改進度",
     "description": "\\\\10.100.3.31\\itsc\\2025Security\\Formal_Auditing\\2026 Auditing Correction Plan for Minor NC and OFI",
-    "status": "todo",
+    "status": "in-progress",
     "goalDate": "2026-09-01",
     "updateFrequency": "weekly",
     "nextUpdateDate": "2026-08-20",
     "owner": "Kenneth",
     "followers": [],
     "discussionItems": [],
-    "subTasks": [],
+    "subTasks": [
+      {
+        "id": "mt1arton-sd3fxub",
+        "parentId": "mt0tro20-xw2ztmk",
+        "title": "TCE難以統一收集LOG到ELK",
+        "difficulty": "TCE需要討論如何收發LOG到ELK, 可能要付錢買產品?",
+        "status": "todo",
+        "owner": "warren",
+        "dueDate": "2026-08-21",
+        "createdAt": "2026-08-20T09:07:38.375Z"
+      }
+    ],
     "progressUpdates": [],
     "tags": [
       "ISO27001"
     ],
     "progress": 0,
     "createdAt": "2026-08-20T01:11:37.608Z",
-    "updatedAt": "2026-08-20T01:11:37.608Z"
+    "updatedAt": "2026-08-20T09:07:38.375Z"
   },
   {
     "id": "mszvwm9c-h68s6wx",
