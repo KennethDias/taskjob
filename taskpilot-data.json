@@ -1,5 +1,24 @@
 [
   {
+    "id": "mt0ttcxb-igh0p5n",
+    "relatedTaskIds": [],
+    "title": "回覆BSI 差距分析的時間",
+    "description": "9月1日-2日(待定)",
+    "status": "todo",
+    "goalDate": "2026-08-20",
+    "updateFrequency": "weekly",
+    "nextUpdateDate": "2026-08-20",
+    "owner": "Kenneth",
+    "followers": [],
+    "discussionItems": [],
+    "subTasks": [],
+    "progressUpdates": [],
+    "tags": [],
+    "progress": 0,
+    "createdAt": "2026-08-20T01:12:56.495Z",
+    "updatedAt": "2026-08-20T01:12:56.495Z"
+  },
+  {
     "id": "mt0tro20-xw2ztmk",
     "relatedTaskIds": [
       "mszvl3s2-q81wbt4",
