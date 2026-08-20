@@ -28,7 +28,7 @@
     "description": "9月1日-2日(待定)",
     "status": "todo",
     "goalDate": "2026-08-20",
-    "updateFrequency": "weekly",
+    "updateFrequency": "none",
     "nextUpdateDate": "2026-08-20",
     "owner": "Kenneth",
     "followers": [],
@@ -38,7 +38,7 @@
     "tags": [],
     "progress": 0,
     "createdAt": "2026-08-20T01:12:56.495Z",
-    "updatedAt": "2026-08-20T01:12:56.495Z"
+    "updatedAt": "2026-08-20T01:49:49.941Z"
   },
   {
     "id": "mt0tro20-xw2ztmk",
