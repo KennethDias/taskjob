@@ -1,5 +1,27 @@
 [
   {
+    "id": "mt0v3pn3-ja3pjbx",
+    "relatedTaskIds": [
+      "mszvl3s2-q81wbt4",
+      "mszvnqts-5o8qnhf"
+    ],
+    "title": "CNITSEC漏洞修復跟踪",
+    "description": "Sammy, Warren, 政策",
+    "status": "todo",
+    "goalDate": "2026-08-20",
+    "updateFrequency": "weekly",
+    "nextUpdateDate": "2026-08-20",
+    "owner": "Kenneth",
+    "followers": [],
+    "discussionItems": [],
+    "subTasks": [],
+    "progressUpdates": [],
+    "tags": [],
+    "progress": 0,
+    "createdAt": "2026-08-20T01:48:59.151Z",
+    "updatedAt": "2026-08-20T01:48:59.151Z"
+  },
+  {
     "id": "mt0ttcxb-igh0p5n",
     "relatedTaskIds": [],
     "title": "回覆BSI 差距分析的時間",
