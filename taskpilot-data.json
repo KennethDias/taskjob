@@ -26,7 +26,7 @@
     "relatedTaskIds": [],
     "title": "回覆BSI 差距分析的時間",
     "description": "9月1日-2日(待定)",
-    "status": "todo",
+    "status": "in-progress",
     "goalDate": "2026-08-20",
     "updateFrequency": "none",
     "nextUpdateDate": "2026-08-20",
@@ -41,12 +41,19 @@
         "progress": 0,
         "note": "因該時段處於開學, 建議延後到10月5日後",
         "updatedBy": "Kenneth"
+      },
+      {
+        "id": "mt0v6ijf-8os44ci",
+        "date": "2026-08-20T01:51:09.915Z",
+        "progress": 50,
+        "note": "因該時段處於開學, 建議延後到10月5日後",
+        "updatedBy": "Kenneth"
       }
     ],
     "tags": [],
-    "progress": 0,
+    "progress": 50,
     "createdAt": "2026-08-20T01:12:56.495Z",
-    "updatedAt": "2026-08-20T01:50:52.305Z"
+    "updatedAt": "2026-08-20T01:51:09.915Z"
   },
   {
     "id": "mt0tro20-xw2ztmk",
