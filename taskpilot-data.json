@@ -34,11 +34,19 @@
     "followers": [],
     "discussionItems": [],
     "subTasks": [],
-    "progressUpdates": [],
+    "progressUpdates": [
+      {
+        "id": "mt0v5z76-uehh9nw",
+        "date": "2026-08-20T01:50:44.850Z",
+        "progress": 0,
+        "note": "因該時段處於開學, 建議延後到10月5日後",
+        "updatedBy": "Kenneth"
+      }
+    ],
     "tags": [],
     "progress": 0,
     "createdAt": "2026-08-20T01:12:56.495Z",
-    "updatedAt": "2026-08-20T01:49:49.941Z"
+    "updatedAt": "2026-08-20T01:50:44.850Z"
   },
   {
     "id": "mt0tro20-xw2ztmk",
