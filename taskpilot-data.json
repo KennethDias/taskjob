@@ -1,5 +1,30 @@
 [
   {
+    "id": "mt0tro20-xw2ztmk",
+    "relatedTaskIds": [
+      "mszvl3s2-q81wbt4",
+      "mszvmfv4-yytjvx8",
+      "mszvq1i4-irx6aaf"
+    ],
+    "title": "追踪Minor NC整改進度",
+    "description": "\\\\10.100.3.31\\itsc\\2025Security\\Formal_Auditing\\2026 Auditing Correction Plan for Minor NC and OFI",
+    "status": "todo",
+    "goalDate": "2026-09-01",
+    "updateFrequency": "weekly",
+    "nextUpdateDate": "2026-08-20",
+    "owner": "Kenneth",
+    "followers": [],
+    "discussionItems": [],
+    "subTasks": [],
+    "progressUpdates": [],
+    "tags": [
+      "ISO27001"
+    ],
+    "progress": 0,
+    "createdAt": "2026-08-20T01:11:37.608Z",
+    "updatedAt": "2026-08-20T01:11:37.608Z"
+  },
+  {
     "id": "mszvwm9c-h68s6wx",
     "relatedTaskIds": [],
     "title": "關於Moss里什么級別的系統需要做災難演練",
