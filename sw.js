@@ -1,10 +1,11 @@
-/* TaskPilot Service Worker (v4)
+/* TaskPilot Service Worker (v5)
  * 標準做法：固定檔名 sw.js，非模組化包裝，Android Chrome 安裝最相容
  * 用途：
  * 1. 讓 Chrome/Android 認可此為可安裝 PWA（「安裝應用程式」必要條件）
  * 2. 快取主要資源，支援離線開啟
+ * v5：更新快取名稱，activate 時自動清除 v4 舊快取（解決手機殘留舊版問題）
  */
-const CACHE_NAME = 'taskpilot-v4';
+const CACHE_NAME = 'taskpilot-v5';
 
 // 安裝時預先快取核心資源（圖示等帶 hash 檔名資源由 fetch 處理器自動快取）
 self.addEventListener('install', (event) => {
