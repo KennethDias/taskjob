@@ -1,4 +1,4 @@
-# 📋 TaskPilot 專案交接摘要（v4.5.1）
+# 📋 TaskPilot 專案交接摘要（v4.6.0）
 
 > **給 AI 的快速上手文件**：新會話請先讀這份文件，再配合 `/home/user/outputs/` 與 `/home/user/workspace/task-manager/` 的檔案工作。所有關鍵資訊都在這裡。
 
@@ -10,7 +10,7 @@
 - 官方網址：`https://kennethdias.github.io/taskjob/`
 - GitHub 倉庫：`https://github.com/KennethDias/taskjob`（**公開**，只放 App 代碼，無數據）
 - 數據倉庫：`https://github.com/KennethDias/taskpilot-data-private`（**私有**，存放 `taskpilot-data.json`，任務數據端到端加密後上傳）
-- 當前版本：**v4.5.1 · 2026-08-25 修復 GitHub Pages 子路徑 404**
+- 當前版本：**v4.6.0 · 2026-08-26 修正：更新「下次更新日期」後不再顯示逾期**
 - 更新方式：GitHub Desktop 解壓覆蓋 → Commit → Push → GitHub Pages 自動發布（等 1～2 分鐘）
 
 ## 二、技術棧與專案結構
@@ -114,7 +114,8 @@ cp /tmp/single.html /home/user/outputs/task-pilot.html
 
 | 版本 | 內容 |
 |---|---|
-| v4.5.1 | **修復 GitHub Pages 子路徑 404**（相對路徑）★ 當前 |
+| v4.6.0 | **修正：任務更新「下次更新日期」後不再顯示逾期** ★ 當前；逾期/到期判斷由「目標時間(goalDate)」改為「有效日期(nextUpdateDate，若有設定則用之，否則 goalDate)」 |
+| v4.5.1 | **修復 GitHub Pages 子路徑 404**（相對路徑）|
 | v4.5.0 | 待辦任務排除已完成＋「已完成（歷史）」分頁 |
 | v4.1.0 | 討論關聯任務可用（多選修正）|
 | v4.0.0 | 列表模式＋週期更新＋討論關聯修正 |
